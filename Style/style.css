@@ -183,7 +183,7 @@ a.second-link:hover {
 
 
 /* Exaptions for small screen */
-@media (min-width: 1051px) {
+@media (min-width: 2000px) {
 	div.collapse > ul > li:first-child {
 		margin-left:auto;
 		font-size: 160%;
