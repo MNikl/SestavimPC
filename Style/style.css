@@ -199,18 +199,6 @@ a.second-link:hover {
 	}
 }
 
-@media (max-width: @iphone-screen) {
-        .parallax {
-		background-attachment: fixed;
-		}
-    }
-
-@media (max-width: @ipad-screen) {
-        .parallax {
-		background-attachment: fixed;
-		}
-    }
-
 .dropdown-menu.footer.show {
 	padding-left: 20px;
 	padding-right: 20px;
