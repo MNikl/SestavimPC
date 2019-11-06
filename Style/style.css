@@ -199,21 +199,6 @@ a.second-link:hover {
 	}
 }
 
-/* iPad fix */
-body.mobile .collapse > ul > li:first-child {
-	margin-left:auto;
-	font-size: 160%;
-}
-body.mobile .nav-link {
-	padding: 0px;
-}
-body.mobile .parallax {
-	background-attachment: fixed;
-}
-body.mobile .gmap_canvas {
-	width:450px;
-}
-
 .dropdown-menu.footer.show {
 	padding-left: 20px;
 	padding-right: 20px;
