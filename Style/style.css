@@ -199,6 +199,11 @@ a.second-link:hover {
 	}
 }
 
+/* iPad fix */
+body.mobile .parallax {
+	background-attachment: fixed;
+}
+
 .dropdown-menu.footer.show {
 	padding-left: 20px;
 	padding-right: 20px;
