@@ -197,6 +197,29 @@ a.second-link:hover {
 
 /* Exaptions for small screen */
 @media (min-width: 576px) {
+	footer {
+	width: 100%;
+	background-color: #262626;
+	opacity: 0.9;
+	}
+	div.col-sm {
+		margin-top: 10px;
+		text-align: center;
+	}
+	p.footer {
+		color: #bfbfbf;
+		margin-left: auto;
+		vertical-align: center;
+	}
+	a.email-link {
+		color: #808080;
+	}
+	a.email-link:hover {
+		color: white;
+	}
+	a.second-link:hover {
+		color: black;
+	}
 	div.collapse > ul > li:first-child {
 		margin-left:auto;
 		font-size: 160%;
