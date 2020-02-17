@@ -4,9 +4,9 @@ body, html {
   font-family: Tahoma, Geneva, sans-serif;
   width: 100%;
   background-image: url("../Media/motherboard_v1.jpg");
-  -webkit-background-size: cover;
+  /*-webkit-background-size: cover;
    -moz-background-size: cover;
-   background-size: cover;
+   background-size: cover;*/
 }
 /* General navigationbar settings */
 .navbar {
@@ -55,7 +55,7 @@ a.dont-change-link-format{
 .text-body {
 	max-width: 800px;
 	margin: auto;
-	margin-top: 50px;
+	margin-bottom: 50px;
 	background-color: #ffffff;
 	padding-left: 25px;
 	padding-right: 25px;
@@ -175,8 +175,7 @@ footer {
 	width: 100%;
 	background-color: #262626;
 	opacity: 0.9;
-	bottom: 0;
-	position: absolute;
+	
 }
 div.col-sm {
 	margin-top: 10px;
@@ -204,6 +203,8 @@ a.second-link:hover {
 	width: 100%;
 	background-color: #262626;
 	opacity: 0.9;
+	bottom: 0;
+	position: absolute;
 	}
 	div.col-sm {
 		margin-top: 10px;
@@ -259,5 +260,5 @@ footer>div>div>div>div>p {
 	margin-top: 1rem;
 }
 .placeholder{
-	height: 100px;
+	height: 150px;
 }
