@@ -4,9 +4,9 @@ body, html {
   font-family: Tahoma, Geneva, sans-serif;
   width: 100%;
   background-image: url("../Media/motherboard_v1.jpg");
-  /*-webkit-background-size: cover;
+  -webkit-background-size: cover;
    -moz-background-size: cover;
-   background-size: cover;*/
+   background-size: cover;
 }
 /* General navigationbar settings */
 .navbar {
