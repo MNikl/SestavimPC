@@ -175,6 +175,8 @@ footer {
 	width: 100%;
 	background-color: #262626;
 	opacity: 0.9;
+	bottom: 0;
+	position: absolute;
 }
 div.col-sm {
 	margin-top: 10px;
@@ -202,8 +204,6 @@ a.second-link:hover {
 	width: 100%;
 	background-color: #262626;
 	opacity: 0.9;
-	bottom: 0;
-	position: absolute;
 	}
 	div.col-sm {
 		margin-top: 10px;
